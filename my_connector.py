@@ -194,7 +194,7 @@ class AuthTbl:
             self.db = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                passwd="020820@Steph",
+                passwd="BTA5EYVWLfWcebF",
                 port=3306,
                 database="fitnessgo"
             )
